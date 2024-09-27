@@ -1,3 +1,5 @@
+// Insert at bottom / any index.
+
 import java.util.Stack;
 
 public class insertionInStack {
